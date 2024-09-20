@@ -1,25 +1,12 @@
 <div align="right">
   <img height="20" src="https://komarev.com/ghpvc/?username=huanshenyi" />
 </div>
+
 ## Hi there 👋
 
 - 🧑‍💻 I'm a platform engineer.
 - 📫 How to reach me: [X-Twitter - @HedgehogPython](https://twitter.com/HedgehogPython)
 
-<!--
-**huanshenyi/huanshenyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="left">
   <a href="https://github.com/huanshenyi">
     <img height="20" src="https://img.shields.io/github/followers/huanshenyi?label=follow&logo=github&style=flat" />
