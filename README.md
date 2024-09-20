@@ -31,6 +31,6 @@ Here are some ideas to get you started:
     <img height="20" src="https://badgen.org/img/zenn/pyhrinezumi/articles?style=plastic" />
   </a>
     <a href="https://zenn.dev/pyhrinezumi">
-    <img height="20" src="  https://badgen.org/img/zenn/pyhrinezumi/likes?style=plastic" />
+    <img height="20" src="https://badgen.org/img/zenn/pyhrinezumi/likes?style=plastic" />
   </a>
 </p>
